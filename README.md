@@ -1,6 +1,6 @@
 # Create Your Own Webpage
 
-Use the page template from https://jsbin.com/bukina and either cut & paste the code into your own text editor or start your own page within JSBin (just start typing- it will automatically create a new page for you).
+Use the page template from https://jsbin.com/bukina/edit and either cut & paste the code into your own text editor or start your own page within JSBin (just start typing- it will automatically create a new page for you).
 
 Add the following elements to your webpage:
 * a first-level header `<h1>` with the title of your page
