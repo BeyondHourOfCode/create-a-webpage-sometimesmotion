@@ -13,7 +13,7 @@ Now create some styles for your page:
 * indent your paragraph by giving it a 'padding-left' property
 * give a background color to your `<div>` that will stand out from the `<body>`
  
-##Get Creative!
+## Get Creative!
 
 Now go ahead and create more content- if you already have an idea for a site, start prototyping it out by creating divs that will create a layout for you. If you are still thinking of ideas, you can start to play around with creating a layout. Use text from a website like Wikipedia as placeholder text. Add some images, choose your font(s), create some background colors. 
 
